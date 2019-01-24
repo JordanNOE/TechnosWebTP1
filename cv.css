@@ -1,0 +1,72 @@
+*
+{
+    font-family: montserrat light
+}
+
+p
+{
+    text-align: justify;
+}
+span.annee
+{
+    color: blue;
+}
+h1
+{
+    font-size: 50px;
+    margin-left: 100px;
+}
+h4
+{
+    
+    font-size: 20px;
+    margin-left: 40px;
+}
+span.nom
+{
+    font-weight: bold;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+#conteneurgauche{
+    width: 50%;
+    margin-right: 40px;
+    margin-left: 40px;
+   
+}
+#conteneurdroit{
+    width: 100%;
+}
+#conteneurgauche, #conteneurdroit {
+     display: flex;
+    
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+}
+#sub_header{
+    
+}
+#formation{
+    margin-top: 55px;
+}
+.Name{
+    width: 200px; 
+    margin-right: 0px;
+    border-right: 0px;
+    padding-right: 0px;
+}
+body{
+    background-color: #FFFFF0 ;
+    
+}
+.form1
+{
+    
+}
+
