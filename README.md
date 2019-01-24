@@ -1,5 +1,4 @@
-# TechnosWebTP1
-
+# TechnosWebTP1-JordanNOE-TD2
 ## Instructions
 
 Créer un site CV **présentable** qui pourra être mis en ligne par vos soins
